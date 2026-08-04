@@ -1,21 +1,61 @@
+================================================================================
 LUNIM FILM SUITE — REGIONAL INDIE FILM GRANT & INVESTOR COMPLIANCE MANDATES
+================================================================================
 
-1. ELIGIBILITY & TEAM STRUCTURE
-- Core Team: Must have a designated Lead Director, Producer, and Screenwriter attached.
+--------------------------------------------------------------------------------
+[CATEGORY: TEAM_ELIGIBILITY_LEGAL]
+[MANDATORY_REQUIREMENT]
+
+1.1 Core Team & Experience
+- Core Team Structure: Must have a designated Lead Director, Lead Producer, and Lead Screenwriter explicitly attached.
+- Experience Tier: At least one core producer or director must demonstrate a completed short film or theatrical/streaming feature credit.
+
+1.2 Legal & Chain of Title Depth
 - Chain of Title: Full legal ownership or option agreement for the script/IP must be documented.
-- Experience Tier: At least one core producer or director must have a completed short film or feature credit.
+- Option Expiration Dates: All option agreements for underlying script/IP must have a minimum remaining validity of 24 months from the application submission date.
+- Rights Clearance Scope: Full written releases and legal documentation must be provided for all underlying right-holders, adapted story materials, proprietary music, and archival footage.
+- Regional Jurisdiction Rules: A mandatory minimum of 60% of total principal photography shooting days must be completed within the UK/EU region to qualify for regional funding.
 
-2. BUDGETING & FINANCIAL CLEARANCE
-- Maximum Grant Funding Cap: Up to £150,000 or 50% of total estimated production budget.
-- Co-Financing Requirement: Remaining 50% must be secured via pre-sales, tax credits, or equity partners.
-- Contingency Allocation: A mandatory 10% contingency line item must be explicitly reserved in the budget breakdown.
-- Escrow Compliance: All allocated grant distributions are subject to milestone-based release via Lunim Smart Contracts.
+--------------------------------------------------------------------------------
+[CATEGORY: FINANCIAL_CLEARANCE_RECAPTURE]
+[MANDATORY_REQUIREMENT]
 
-3. SCRIPT, LOGLINE & MARKET FEASIBILITY
-- Logline & Synopsis: Must include a clear 1-sentence logline and a 3-paragraph story treatment.
-- Audience Positioning: Must identify a primary target demographic and a clear direct-to-fan distribution strategy (e.g., Tabb community adoption).
+2.1 Funding Cap & Co-Financing
+- Maximum Grant Funding Cap: Up to £150,000 or 50% of total estimated production budget, whichever is lower.
+- Co-Financing Requirement: Remaining 50%+ must be secured via verified pre-sales, regional tax credits, broadcast presales, or equity partners.
+- Contingency Allocation: A mandatory 10% contingency line item must be explicitly calculated and reserved in the budget breakdown. Unforeseen overages without this line item trigger an automatic evaluation penalty.
+
+2.2 Financial Mechanics & Revenue Recapture
+- Recapture Waterfall Structure: Net commercial revenues, broadcast licensing, and VOD sales must follow a structured recoupment waterfall:
+  * Stage 1: 100% of initial revenues to Lunim Grant/Investor Pool until 100% principal investment recoupment.
+  * Stage 2: 50/50 net profit split between Investors and Lead Producer post-recoupment.
+- Eligible Spend vs. Non-Eligible Expenses:
+  * Eligible Expenses: Direct pre-production costs, local crew day rates, equipment rentals, location fees, post-production edit/grade, and sound design.
+  * Non-Eligible Expenses: Marketing/PR expenses incurred prior to formal distribution lock, executive producer discretionary fees over 5%, and pre-application script development costs.
+
+--------------------------------------------------------------------------------
+[CATEGORY: SCRIPT_FEASIBILITY_DELIVERABLES]
+[MANDATORY_REQUIREMENT]
+
+3.1 Narrative & Market Positioning
+- Logline & Synopsis: Must include a clear 1-sentence logline, a 3-paragraph story treatment, and a completed feature script (85–120 pages).
+- Audience Positioning: Must identify a primary target demographic and a clear direct-to-fan distribution strategy (e.g., Tabb community adoption, token-gated premieres, or festival rollout).
 - Production Feasibility: Detailed breakdown of shoot locations, shooting days (recommended max 25 days), and technical complexity.
 
-4. DIVERSITY, EQUITY & SUSTAINABILITY MANDATES
-- On-Set Inclusivity: Production crew must meet minimum diversity quotas across head-of-department roles.
-- Green Production: Must outline a carbon footprint reduction plan for location shooting and travel.
+3.2 Technical Deliverables & Smart Contract Milestones
+- Master Format Standards: Final project delivery must meet industry archive standards:
+  * Master Video: 4K ProRes 4444 XQ and DCI-compliant DCP.
+  * Master Audio: Surround Sound 5.1 and 7.1 uncompressed audio stems.
+- Smart Contract Milestone Triggers: Grant distributions are automatically escrowed and released upon milestone verification:
+  * Stage 1 (20%): Execution of grant contract, verified chain of title, and locked script.
+  * Stage 2 (40%): Completion of principal photography verified by daily call sheets.
+  * Stage 3 (30%): Picture lock and delivery of rough cut.
+  * Stage 4 (10%): Final QC approval of master technical deliverables (4K ProRes/DCP/5.1 Audio).
+
+--------------------------------------------------------------------------------
+[CATEGORY: DIVERSITY_SUSTAINABILITY_IMPACT]
+[MANDATORY_REQUIREMENT]
+
+4.1 Diversity, Equity & Sustainability Mandates
+- On-Set Inclusivity: Production crew must meet minimum diversity quotas (minimum 30%) across head-of-department and key crew roles.
+- Green Production Plan: Must outline a written carbon footprint reduction plan for location shooting, travel, single-use plastic elimination, and waste management.
