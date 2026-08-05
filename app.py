@@ -15,17 +15,17 @@ st.set_page_config(
 # Sidebar metadata and context
 with st.sidebar:
     st.title("🎬 Lunim Film Suite")
-    st.subheader("RAG Grant & Investor Readiness Auditor")
+    st.subheader("RAG Pitch Readiness Auditor")
     st.markdown("""
     **Developer:** AI Engineer Intern Cohort  
-    **Framework:** RAG (ChromaDB + Hugging Face LLM)  
+    **Framework:** RAG (ChromaDB + Hugging Face LLM (Qwen3-4B-Instruct + sentence-transformers/all-MiniLM-L6-v2))  
     **Objective:** Help independent creators assess pitch readiness against investor and grant mandates before formal submission.
     """)
     st.divider()
     st.info("💡 **Tip for Live Demo:** Select a Pitch from the dropdown and click 'Load Selected Pitch' to populate the latest pitch treatment.")
 
 # Main Header
-st.title("📊 Grant & Investor Readiness Diagnostic Engine")
+st.title("📊 Pitch Readiness Auditor Engine")
 st.markdown("Paste an independent film pitch treatment below to run an automated diagnostic audit against retrieved industry compliance mandates.")
 
 # Helper function to read sample pitch files

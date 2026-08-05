@@ -44,6 +44,7 @@ def audit_pitch(pitch_text: str) -> str:
     })
 
     try:
+        # raise Exception("Simulated API connection failure for testing exception handler!")
         response = llm.invoke(messages)
         return response.content
     except Exception as e:
